@@ -1,4 +1,4 @@
-# Lab-01-Basic-Office-Network
+# Lab-00-Basic-Network
 Create 1 router, 1 switch, 4 PCs. Assign IPs and test ping.
 
 ## Objective
